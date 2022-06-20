@@ -81,6 +81,8 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         if dotNodes.count >= 2{
             calculate()
         }
+        
+        
     }
     
     func calculate(){
